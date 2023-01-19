@@ -26,7 +26,9 @@
 - Random Forest (literatuur?)
 - XGBoost
 ## Domain Knowledge
--
+-XGBoost paper (literatuur misschien nog erbij zoeken)
 ## Data Preprocessing
-
+-interpoleren?
 ## Communucation
+- Gegeven presentaties
+- Stuk methode/Data
