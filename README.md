@@ -26,7 +26,7 @@
 - Random Forest (literatuur?)
 - XGBoost
 
-- [XGBoost_hyperparameter](#XGBoost_hyperparameter)
+- [XGBoost_hyperparameter](#xgboost_hyperparameter)
 ## Domain Knowledge
 -XGBoost paper (literatuur misschien nog erbij zoeken)
 ## Data Preprocessing
