@@ -26,7 +26,7 @@
 - Random Forest (literatuur?)
 - XGBoost
 
-- [XGBoost_hyperparameter](#xgboost1)
+[XGBoost met hyperparameter tuning](xgboost1.ipynb)
 ## Domain Knowledge
 -XGBoost paper (literatuur misschien nog erbij zoeken)
 ## Data Preprocessing
