@@ -25,6 +25,8 @@
 ## Predictive Analytics
 - Random Forest (literatuur?)
 - XGBoost
+
+- [XGBoost_hyperparameter](#XGBoost_hyperparameter)
 ## Domain Knowledge
 -XGBoost paper (literatuur misschien nog erbij zoeken)
 ## Data Preprocessing
