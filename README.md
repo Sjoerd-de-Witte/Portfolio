@@ -31,6 +31,9 @@ In de eerste notebook heb ik voor een huisje het energieverbriuk per dag probere
 In de tweede notebook heb ik voor alle huisjes het energie verbruik per dag geprobeerd te voorspellen met XGBoost, omdat het finetunenen van de parameters best wel veel tijd kost en het resultaat niet heel veel verschilt heb ik hier geen hyperparameters getuned. Deze notebook is meer gericht om de kwantatitatieve analyse. <br>
 [XGBoost met loop over elk huisje](xgboost2.ipynb)
 
+In deze notebook heb ik gekeken naar de RandomForestClassifier, omdat deze een hoog accuracy had bij de lazypredict, een library die alle classifier modellen op een probleem toepast. Ik heb gekeken hoeveel het model beter werdt op het moment dat we de hyperparameters gingen finetunen.
+[RandomForestClassifier met hyperparameter finetuning](rfr.ipynb)
+
 ## Domain Knowledge
 - XGBoost paper (literatuur misschien nog erbij zoeken) <br>
 Voor het Energieproject had ik de taak gekregen om te proberen een oplossing te vinden met behulp van XGBoost. Daarom ben ik eerst aan de slag gegaan om te begrijpen hoe dit machine learning model in elkaar zit. Ik heb hiervan een verslag gemaakt voor mezelf, maar ook voor de rest van mijn groepje om te begrijpen waar ik mee bezig was.
