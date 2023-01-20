@@ -30,7 +30,7 @@
 ## Domain Knowledge
 -XGBoost paper (literatuur misschien nog erbij zoeken)
 
-[XGBoost](XGBoost.pdf)
+[XGBoost](XgBoost.pdf)
 
 ## Data Preprocessing
 -interpoleren?
