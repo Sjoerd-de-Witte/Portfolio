@@ -35,5 +35,11 @@
 ## Data Preprocessing
 -interpoleren?
 ## Communucation
-- Gegeven presentaties
-- Stuk methode/Data
+
+### Gegeven presentaties
+
+Ik heb de eerste externe presentatie over het Foodboost project gegeven samen met Job. Verder heb ik de derde externe presentatie over het Energie project samen met Job en Senna gegeven. Tot slot heb ik ook nog een handvol interne presentaties gegeven.
+
+### Verslag
+
+Voor het verslag heb ik de taak op mij genomen om hoofstuk Data, de methode, resulataten en analyse resultaten voor XGBoost te schrijven.
