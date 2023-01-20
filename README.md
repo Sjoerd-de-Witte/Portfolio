@@ -35,13 +35,12 @@ In deze notebook heb ik gekeken naar de RandomForestClassifier, omdat deze een h
 [RandomForestClassifier met hyperparameter finetuning](rfr.ipynb)
 
 ## Domain Knowledge
-- XGBoost paper (literatuur misschien nog erbij zoeken) <br>
 Voor het Energieproject had ik de taak gekregen om te proberen een oplossing te vinden met behulp van XGBoost. Daarom ben ik eerst aan de slag gegaan om te begrijpen hoe dit machine learning model in elkaar zit. Ik heb hiervan een verslag gemaakt voor mezelf, maar ook voor de rest van mijn groepje om te begrijpen waar ik mee bezig was.
 
 [XGBoost](XgBoost.pdf)
 
 ## Data Preprocessing
-- interpoleren?
+- interpoleren
 ## Communucation
 
 ### Gegeven presentaties
