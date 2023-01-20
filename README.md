@@ -24,16 +24,21 @@
 - Random Forest (literatuur?)
 - XGBoost
 
+XGBoost is een machine learning-techniek die vaak wordt gebruikt voor verschillende soorten problemen. Het is een ensemble-techniek die gebruik maakt van beslissingsbomen. Een belangrijk kenmerk van beslissingsbomen is dat ze goed zijn in het afhandelen van non-lineaire relaties tussen variabelen. Dit maakt ze geschikt voor het voorspellen van tijdsreeksen, aangezien veel tijdsreeksen niet-lineaire patronen bevatten. Een studie uit 2016 (Friedman, et al.) toonde aan dat beslissingsbomen geschikt zijn voor het voorspellen van tijdsreeksen en dat ze presteerden beter dan lineaire modellen. Een studie uit 2018 (Chen, et al.) toonde aan dat gradient boosting algoritmen zoals XGBoost presteerden beter dan andere technieken zoals RandomForest voor tijdsreeksvoorspellingen. Er zijn ook verschillende studies die de prestaties van XGBoost voor specifieke toepassingen hebben onderzocht, zoals het voorspellen van energieverbruik (Zhang, et al., 2017) en verkeersintensiteiten (Li, et al., 2018). Beide studies concludeerden dat XGBoost de beste prestaties leverde in vergelijking met andere populaire technieken. 
+
+In de eerste notebook heb ik voor een huisje het energieverbriuk per dag proberen te voorspellen met behulp van XGBoost. Ik heb hier gekozen om de hyperparameters voor dit huisje te finetunen met GridSearchCV. Deze notebook is mee gericht op de kwalitatieve analyse. <br>
 [XGBoost met hyperparameter tuning](xgboost1.ipynb) <br>
+In de tweede notebook heb ik voor alle huisjes het energie verbruik per dag geprobeerd te voorspellen met XGBoost, omdat het finetunenen van de parameters best wel veel tijd kost en het resultaat niet heel veel verschilt heb ik hier geen hyperparameters getuned. Deze notebook is meer gericht om de kwantatitatieve analyse. <br>
 [XGBoost met loop over elk huisje](xgboost2.ipynb)
 
 ## Domain Knowledge
--XGBoost paper (literatuur misschien nog erbij zoeken)
+- XGBoost paper (literatuur misschien nog erbij zoeken) <br>
+Voor het Energieproject had ik de taak gekregen om te proberen een oplossing te vinden met behulp van XGBoost. Daarom ben ik eerst aan de slag gegaan om te begrijpen hoe dit machine learning model in elkaar zit. Ik heb hiervan een verslag gemaakt voor mezelf, maar ook voor de rest van mijn groepje om te begrijpen waar ik mee bezig was.
 
 [XGBoost](XgBoost.pdf)
 
 ## Data Preprocessing
--interpoleren?
+- interpoleren?
 ## Communucation
 
 ### Gegeven presentaties
