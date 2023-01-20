@@ -21,8 +21,6 @@
 ## Research Project
 
 ## Predictive Analytics
-- Random Forest (literatuur?)
-- XGBoost
 
 XGBoost is een machine learning-techniek die vaak wordt gebruikt voor verschillende soorten problemen. Het is een ensemble-techniek die gebruik maakt van beslissingsbomen. Een belangrijk kenmerk van beslissingsbomen is dat ze goed zijn in het afhandelen van non-lineaire relaties tussen variabelen. Dit maakt ze geschikt voor het voorspellen van tijdsreeksen, aangezien veel tijdsreeksen niet-lineaire patronen bevatten. Een studie uit 2016 (Friedman, et al.) toonde aan dat beslissingsbomen geschikt zijn voor het voorspellen van tijdsreeksen en dat ze presteerden beter dan lineaire modellen. Een studie uit 2018 (Chen, et al.) toonde aan dat gradient boosting algoritmen zoals XGBoost presteerden beter dan andere technieken zoals RandomForest voor tijdsreeksvoorspellingen. Er zijn ook verschillende studies die de prestaties van XGBoost voor specifieke toepassingen hebben onderzocht, zoals het voorspellen van energieverbruik (Zhang, et al., 2017) en verkeersintensiteiten (Li, et al., 2018). Beide studies concludeerden dat XGBoost de beste prestaties leverde in vergelijking met andere populaire technieken. 
 
