@@ -29,6 +29,9 @@
 
 ## Domain Knowledge
 -XGBoost paper (literatuur misschien nog erbij zoeken)
+
+[XGBoost](XGBoost.pdf)
+
 ## Data Preprocessing
 -interpoleren?
 ## Communucation
