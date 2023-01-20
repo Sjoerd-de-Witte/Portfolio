@@ -27,6 +27,8 @@
 - XGBoost
 
 [XGBoost met hyperparameter tuning](xgboost1.ipynb)
+[XGBoost met loop over elk huisje](xgboost2.ipynb)
+
 ## Domain Knowledge
 -XGBoost paper (literatuur misschien nog erbij zoeken)
 ## Data Preprocessing
