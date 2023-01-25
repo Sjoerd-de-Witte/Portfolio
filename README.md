@@ -20,7 +20,9 @@
 
 ## Predictive Analytics
 
-XGBoost is een machine learning-techniek die vaak wordt gebruikt voor verschillende soorten problemen. Het is een ensemble-techniek die gebruik maakt van beslissingsbomen. Een belangrijk kenmerk van beslissingsbomen is dat ze goed zijn in het afhandelen van non-lineaire relaties tussen variabelen. Dit maakt ze geschikt voor het voorspellen van tijdsreeksen, aangezien veel tijdsreeksen niet-lineaire patronen bevatten. Een studie uit 2016 (Friedman, et al.) toonde aan dat beslissingsbomen geschikt zijn voor het voorspellen van tijdsreeksen en dat ze presteerden beter dan lineaire modellen. Een studie uit 2018 (Chen, et al.) toonde aan dat gradient boosting algoritmen zoals XGBoost presteerden beter dan andere technieken zoals RandomForest voor tijdsreeksvoorspellingen. Er zijn ook verschillende studies die de prestaties van XGBoost voor specifieke toepassingen hebben onderzocht, zoals het voorspellen van energieverbruik (Zhang, et al., 2017) en verkeersintensiteiten (Li, et al., 2018). Beide studies concludeerden dat XGBoost de beste prestaties leverde in vergelijking met andere populaire technieken. 
+XGBoost is een Machine Learning-techniek die vaak wordt gebruikt voor verschillende soorten problemen. Het is een ensemble-techniek die gebruik maakt van beslissingsbomen. Een belangrijk kenmerk van beslissingsbomen is dat ze goed zijn in het afhandelen van non-lineaire relaties tussen variabelen. Dit maakt ze geschikt voor het voorspellen van tijdreeksen, aangezien veel tijdreeksen niet-lineaire patronen bevatten.  
+
+Een studie uit 2019 toonde aan dat XGBoost geschikt kan zijn voor tijdreeks voorspellingen (Abbasi, R. A., Javaid, N., Ghuman, M. N. J., Khan, Z. A., & Ur Rehman, S, 2019).  
 
 In de eerste notebook heb ik voor een huisje het energieverbriuk per dag proberen te voorspellen met behulp van XGBoost. Ik heb hier gekozen om de hyperparameters voor dit huisje te finetunen met GridSearchCV. Deze notebook is mee gericht op de kwalitatieve analyse. <br>
 [XGBoost met hyperparameter tuning](xgboost1.ipynb) <br>
@@ -32,6 +34,8 @@ In deze notebook heb ik gekeken naar de RandomForestClassifier, omdat deze een h
 
 ## Domain Knowledge
 Voor het Energieproject had ik de taak gekregen om te proberen een oplossing te vinden met behulp van XGBoost. Daarom ben ik eerst aan de slag gegaan om te begrijpen hoe dit machine learning model in elkaar zit. Ik heb hiervan een verslag gemaakt voor mezelf, maar ook voor de rest van mijn groepje om te begrijpen waar ik mee bezig was.
+
+Om meer kennis over dit onderwerp op te doen heb ik gebruik gemaakt van een combinatie van: Het lezen van papers en artikelen over XGBoost en door filmpjes op youtube te kijken van StatQuest. Deze informatie heb ik proberen te verwerken in verslag over XGBoost.
 
 [XGBoost](XgBoost.pdf)
 
@@ -47,3 +51,7 @@ Ik heb de eerste externe presentatie over het Foodboost project gegeven samen me
 ### Verslag
 
 Voor het verslag heb ik de taak op mij genomen om hoofstuk Data, de methode, resulataten en analyse resultaten voor XGBoost te schrijven.
+
+## Bronnen
+
+Abbasi, R., Javaid, N., Ghuman, M., Khan, Z., & Ur Rehman, S. (2019, maart). Short term load forecasting using XGBoost. Springer, pp. 1120-1131. Opgeroepen op januari 19, 2023 
