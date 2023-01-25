@@ -43,8 +43,8 @@ Voor het Energieproject had ik de taak gekregen om te proberen een oplossing te 
 
 ### Gegeven presentaties
 
-Ik heb de eerste externe presentatie over het Foodboost project gegeven samen met Job. Verder heb ik de derde externe presentatie over het Energie project samen met Job en Senna gegeven. Tot slot heb ik ook nog een handvol interne presentaties gegeven. 
-[FoodBoost prestatie](FoodBoostEindpresentatie)
+Ik heb de eerste externe presentatie over het Foodboost project gegeven samen met Job. Verder heb ik de derde externe presentatie over het Energie project samen met Job en Senna gegeven. Tot slot heb ik ook nog een handvol interne presentaties gegeven. <br>
+[FoodBoost prestatie](FoodBoostEindpresentatie)<br>
 [Energie 2de presentatie](Energy2)
 
 ### Verslag
