@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio Sjoerd de Witte
 
 ## Datacamp
 
@@ -119,7 +119,7 @@ Voor het Energieproject had ik de taak gekregen om te proberen een oplossing te 
 
 Om meer kennis over dit onderwerp op te doen heb ik gebruik gemaakt van een combinatie van: Het lezen van papers en artikelen over XGBoost en door filmpjes op youtube te kijken van StatQuest. Deze informatie heb ik proberen te verwerken in verslag over XGBoost.
 
-[XGBoost](XgBoost.pdf)
+* [XGBoost](XgBoost.pdf)
 
 ## Communucation
 
