@@ -119,7 +119,7 @@ In deze notebook heb ik gekeken naar de RandomForestClassifier, omdat deze een h
 Vergeleken met modellen die mijn groepsgenoten hadden gemaakt was RandomForest een goed model, het scoorde op alle onderdelen, accuracy, precision en recall, het hoogst.
 
 
-## Data Prepocessing
+## Data Preprocessing
 
 Ik heb eerst de data geimporteerd en bekeken. Het eerste wat opviel was dat alle tijdstippen van de metingen waren genoteerd als timestamps, omdat dit niet makkelijk leesbaar is heb ik deze eerst omgezet naar datetimes en dubbele metingen eruit gehaald. Door naar de data van verschillende huisjes te kijken viel op dat er niet altijd om de 5 minuten was gemeten, zoals eigenlijk de bedoeling was. Soms ontbraken er hele dagen of dagdelen, daarom heb ik vervolgens de data geinterpoleerd.
 
