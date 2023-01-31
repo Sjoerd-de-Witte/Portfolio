@@ -118,12 +118,6 @@ In deze notebook heb ik gekeken naar de RandomForestClassifier, omdat deze een h
 
 Vergeleken met modellen die mijn groepsgenoten hadden gemaakt was RandomForest een goed model, het scoorde op alle onderdelen, accuracy, precision en recall, het hoogst.
 
-## Domain Knowledge
-Voor het Energieproject had ik de taak gekregen om te proberen een oplossing te vinden met behulp van XGBoost. Daarom ben ik eerst aan de slag gegaan om te begrijpen hoe dit machine learning model in elkaar zit. Ik heb hiervan een verslag gemaakt voor mezelf, maar ook voor de rest van mijn groepje om te begrijpen waar ik mee bezig was.
-
-Om meer kennis over dit onderwerp op te doen heb ik gebruik gemaakt van een combinatie van: Het lezen van papers en artikelen over XGBoost en door filmpjes op youtube te kijken van StatQuest. Deze informatie heb ik proberen te verwerken in verslag over XGBoost.
-
-* [XGBoost](XgBoost.pdf)
 
 ## Data Prepocessing
 
