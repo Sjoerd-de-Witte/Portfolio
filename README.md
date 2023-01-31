@@ -131,8 +131,11 @@ In deze notebook heb ik een huisje geanalyseerd.
 
 * [Data voorbereiding met interpolatie](Sjoerd_interpoleren.ipynb)<br>
 
-Later heeft Senna dit als loop voor alle huisjes gemaakt en hebben we gekeken naar de grafieken van energie verbruik naar bijzonderheden/uitschieters in deze grafiek.
+Later heeft Senna dit als loop voor alle huisjes gemaakt en hebben we gekeken naar de grafieken van energieverbruik naar bijzonderheden/uitschieters in deze grafiek.
 
+Tot slot bij het voorbereiden voor de data van een machine learning model heb ik ook nog wat visualitaties gemaakt van de data.
+
+* [Data voorbereiding voor ML model](Dataxgboost.ipynb)<br>
 
 ## Communucation
 
