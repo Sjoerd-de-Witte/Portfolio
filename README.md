@@ -133,6 +133,8 @@ De belangrijkste data voor ons waren die van de smartmeter en in het bijzonder d
 
 Verder was het interessant om te zien dat als er gekekn werd naar de correlatie tussen smartmeter_energy_out en solar_energy_out, dat het bijna een op een liep. Dat betekent, dat de energie die wordt opgewekt door de zonnepanelen nauwelijks wordt gebruikt door het huis en bijna allemaal wordt teruggelevert aan het net, dit is een goed argument waarom een batterij in het huis nuttig zou kunnen zijn.
 
+* [Data voorbereiding met interpolatie](Sjoerd_interpoleren.ipynb)<br>
+
 Later heeft Senna dit als loop voor alle huisjes gemaakt en hebben we gekeken naar de grafieken van energie verbruik naar bijzonderheden/uitschieters in deze grafiek.
 
 
