@@ -125,6 +125,17 @@ Om meer kennis over dit onderwerp op te doen heb ik gebruik gemaakt van een comb
 
 * [XGBoost](XgBoost.pdf)
 
+## Data Prepocessing
+
+Ik heb eerst de data geimporteerd en bekeken. Het eerste wat opviel was dat alle tijdstippen van meten waren genoteerd als timestamps, omdat dit niet makkelijk leesbaar is heb ik deze eerst omgezet naar datetimes en dubbele metingen eruit gehaald. Door naar de data van verchillende huisjes te kijken viel op dat er niet altijd om de 5 minuten was gemeten, zoals eigenlijk de bedoeling was. Soms ontbraken er hele dagen of dagdelen, daarom heb ik vervolgens de data geinterpoleerd.
+
+De belangrijkste data voor ons waren die van de smartmeter en in het bijzonder de energy_in en energy_out, de energie de het huis van het net opneemt en afgeeft. En de data van de solarpanels en in het bijzonder de energy_out, de hoeveelheid energie die de zonnepanelen opwekken. Met deze data is namelijk het totale verbruik van een huis te berekenen.
+
+Verder was het interessant om te zien dat als er gekekn werd naar de correlatie tussen smartmeter_energy_out en solar_energy_out, dat het bijna een op een liep. Dat betekent, dat de energie die wordt opgewekt door de zonnepanelen nauwelijks wordt gebruikt door het huis en bijna allemaal wordt teruggelevert aan het net, dit is een goed argument waarom een batterij in het huis nuttig zou kunnen zijn.
+
+Later heeft Senna dit als loop voor alle huisjes gemaakt en hebben we gekeken naar de grafieken van energie verbruik naar bijzonderheden/uitschieters in deze grafiek.
+
+
 ## Communucation
 
 ### Gegeven presentaties
